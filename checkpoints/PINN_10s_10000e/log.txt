@@ -1,0 +1,6 @@
+(pytorch) F:\Desktop\PDE\code_final> python main.py --inference --netpath checkpoints\PINN_10s_10000e\best_model.pth.tar --expt 10  
+device cuda:0
+[checkpoints\PINN_10s_10000e\best_model.pth.tar] The file has been loaded!
+
+The MSE between PRED & REAL value is <<1.321445e-05>>
+SHL<5.238262e-06> MSR<2.391272e-06> LIN<1.899661e-05>
